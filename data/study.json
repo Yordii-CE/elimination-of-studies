@@ -1,0 +1,16 @@
+{
+  "studies": [
+    {
+      "studyId": "1234567",
+      "studyName": "Matematicas"
+    },
+    {
+      "studyId": "9876543",
+      "studyName": "Idiomas"
+    },
+    {
+      "studyId": "75859007",
+      "studyName": "Quimica"
+    }
+  ]
+}

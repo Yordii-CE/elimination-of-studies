@@ -1,0 +1,71 @@
+{
+  "dailies": [
+    {
+      "document": "1234",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "1234567"
+        }
+      ]
+    },
+
+    {
+      "document": "6789",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "1234567"
+        }
+      ]
+    },
+    {
+      "document": "11223",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "1234567"
+        }
+      ]
+    },
+    {
+      "document": "45345",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "1234567"
+        }
+      ]
+    },
+    {
+      "document": "5655",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "1234567"
+        }
+      ]
+    },
+    {
+      "document": "2324",
+      "questions": [
+        {
+          "type": "profile",
+          "attributeName": "Nombre no relevante",
+          "answered": true,
+          "studyId": "75859007"
+        }
+      ]
+    }
+  ]
+}
